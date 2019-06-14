@@ -98,7 +98,7 @@ return (
                 -ms-flex: 1 1 auto;
                 flex: 1 1 auto;
                 padding: 1.25rem;
-                margin-left: 3.25rem;
+                margin-left: 5rem;
             }
             .card-title {
                 margin-bottom: 0.75rem;
