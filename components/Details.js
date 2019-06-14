@@ -21,7 +21,7 @@ return (
                             data.map(data => (
                                 <div key={data.id} className="card">
                                     <div className="card-body">
-                                    <img className="avatar" src={require(`../images/spares/${data.imgSrc}`)} />
+                                    <img className="avatar" src={`../images/spares/${data.imgSrc}`} />
                                         <div className="card-title">
                                             <div className="card-item">
                                                 <h4>{data.itemNumber}</h4>
