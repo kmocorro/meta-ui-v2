@@ -3,9 +3,9 @@ import React from 'react';
 export default () => {
 
     const data = [
-        {id: 1, rank: 1, qtr: 'Q2', wk: 'W23', toolGrp: 'NDEP_PDRIVE', category: 'PM', usageFrequency: 'Quarterly', qDemand: 1, qCons: 300, budget: 1, usageRate: '29900%', linUseRate: '38899%', toolOwner: 'Mike Abril', itemNumber: 104580, desc: 'TUBING 1/4', imgSrc: '/home/applmgr/SPARES/Images/ENGR-NDEP_PDRIVE.png'},
-        {id: 2, rank: 2, qtr: 'Q2', wk: 'W23', toolGrp: 'RENA', category: 'PM', usageFrequency: 'Annually', qDemand: 1, qCons: 20, budget: 1, usageRate: '1900%', linUseRate: '2499%', toolOwner: 'Dennis Ibalio', itemNumber: 101762, desc: 'MANN FILTERMODEL C113', imgSrc: '/home/applmgr/SPARES/Images/ENGR-RENA.png'},
-        {id: 3, rank: 3, qtr: 'Q2', wk: 'W23', toolGrp: 'WTS_METROLOGY', category: 'PM', usageFrequency: 'Semi-Annual', qDemand: 1, qCons: 5, budget: 1, usageRate: '400%', linUseRate: '549%', toolOwner: 'Isagani Palentinos', itemNumber: 515573, desc: 'ACTUATOR LUWTS5-M44', imgSrc: '/home/applmgr/SPARES/Images/ENGR-WTS_METROLOGY.png'}
+        {id: 1, rank: 1, qtr: 'Q2', wk: 'W23', toolGrp: 'NDEP_PDRIVE', category: 'PM', usageFrequency: 'Quarterly', qDemand: 1, qCons: 300, budget: 1, usageRate: '29900%', linUseRate: '38899%', toolOwner: 'Mike Abril', itemNumber: 104580, desc: 'TUBING 1/4', imgSrc: '/images/spares/ENGR-NDEP_PDRIVE.png'},
+        {id: 2, rank: 2, qtr: 'Q2', wk: 'W23', toolGrp: 'RENA', category: 'PM', usageFrequency: 'Annually', qDemand: 1, qCons: 20, budget: 1, usageRate: '1900%', linUseRate: '2499%', toolOwner: 'Dennis Ibalio', itemNumber: 101762, desc: 'MANN FILTERMODEL C113', imgSrc: '/images/spares/ENGR-RENA.png'},
+        {id: 3, rank: 3, qtr: 'Q2', wk: 'W23', toolGrp: 'WTS_METROLOGY', category: 'PM', usageFrequency: 'Semi-Annual', qDemand: 1, qCons: 5, budget: 1, usageRate: '400%', linUseRate: '549%', toolOwner: 'Isagani Palentinos', itemNumber: 515573, desc: 'ACTUATOR LUWTS5-M44', imgSrc: '/images/spares/ENGR-WTS_METROLOGY.png'}
     ]
 
 return (
